@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Pedro Gabriel Amorim</h1>
-<h3 align="center">Um apaixonado por tecnologia, banco de dados e análises.</h3>
+<h3 align="center">Um apaixonado por tecnologia, análises e banco de dados.</h3>
 
 - 🌱 Atualmente eu estou estudando **Análise e Desenvolvimento de sistemas, SQL, Python e Power BI**
 
