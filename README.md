@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Pedro Gabriel Amorim</h1>
 <h3 align="center">Um apaixonado por tecnologia, análises e banco de dados.</h3>
 
-- 🌱 Atualmente eu estou estudando **Análise e Desenvolvimento de sistemas, SQL e Python **
+- 🌱 Atualmente eu estou estudando **Análise e Desenvolvimento de sistemas, SQL e Python**
 
 - 💬 Me pergunte sobre **SQL, Phyton e Lógica de Programação.**
 
