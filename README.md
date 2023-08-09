@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, eu sou o Pedro Gabriel Amorim</h1>
-<h3 align="center">Um apaixonado por tecnologia, análises e banco de dados.</h3>
+<h3 align="center">Um apaixonado por tecnologia, lógica e desenvolvimento de software.</h3>
 
-- 🌱 Atualmente eu estou estudando **Análise e Desenvolvimento de sistemas, SQL e Python**
+- 🌱 Atualmente eu estou estudando **Análise e Desenvolvimento de sistemas, Java e SQL **
 
-- 💬 Me pergunte sobre **SQL, Phyton e Lógica de Programação.**
+- 💬 Me pergunte sobre **Java, SQL e Lógica de Programação.**
 
 - 📫 Você pode me encontrar em **‎pedroamorim7.pga@​yahoo.com**
 
