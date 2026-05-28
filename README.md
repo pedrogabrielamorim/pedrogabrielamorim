@@ -1,5 +1,7 @@
 <h1 align="center">Pedro Amorim</h1><h3 align="center">Cybersecurity | SOC | Blue Team</h3><p align="center">
-Construindo conhecimento em Segurança da Informação através de laboratórios práticos, documentação técnica e projetos voltados para monitoramento, análise de eventos e resposta a incidentes.
+<p align="center">
+Documentando minha jornada em Cibersegurança através de laboratórios práticos, análise de eventos, monitoramento e operações de SOC.
+</p>
 </p><h3 align="left">Estudando:</h3><ul>
 <li>Redes e Protocolos TCP/IP</li>
 <li>Linux</li>
