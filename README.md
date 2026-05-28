@@ -23,8 +23,8 @@ Documentando minha jornada em Cibersegurança através de laboratórios prático
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 </p>
-  <a href="mailto:pedro.martinsamorim99@gmail.com">
-<img src="https://img.shields.io/badge/pedroamorim7.pga%40yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:pedro.martinsamorim99@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </p>
