@@ -17,14 +17,14 @@ Documentando minha jornada em Cibersegurança através de laboratórios prático
 <li>Windows Event Analysis</li>
 <li>SOC Learning Labs</li>
 <li>Wazuh Monitoring Labs</li>
-</ul><h3 align="left">Contato:</h3><p align="left">
+</ul><h3 align="left">Contatos:</h3><p align="left">
 <a href="https://www.linkedin.com/in/pedromartinsamorim?utm_source=share_via&utm_content=profile&utm_medium=member_android
 " target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 </p>
 <a href="mailto:pedro.martinsamorim99@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
 </p>
