@@ -1,19 +1,25 @@
-<h1 align="center">Olá 👋, eu sou o Pedro Gabriel Amorim</h1>
-<h3 align="center">Um apaixonado por tecnologia, lógica e desenvolvimento de software.</h3>
-
-- 🌱 Atualmente eu estou estudando **Análise e Desenvolvimento de sistemas, Java e SQL **
-
-- 💬 Me pergunte sobre **Lógica de Programação, Java e  SQL .**
-
-- 📫 Você pode me encontrar em **‎pedroamorim7.pga@​yahoo.com**
-
-- 📄 Conheça sobre minhas experiências [https://www.linkedin.com/in/pedro-gabriel-amorim-pereira](https://www.linkedin.com/in/pedro-gabriel-amorim-pereira)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pedro-gabriel-amorim-pereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-gabriel-amorim-pereira" height="30" width="40" /></a>
-</p>
-
+<h1 align="center">Pedro Amorim</h1><h3 align="center">Cybersecurity | SOC | Blue Team</h3><p align="center">
+Construindo conhecimento em Segurança da Informação através de laboratórios práticos, documentação técnica e projetos voltados para monitoramento, análise de eventos e resposta a incidentes.
+</p><h3 align="left">Estudando:</h3><ul>
+<li>Redes e Protocolos TCP/IP</li>
+<li>Linux</li>
+<li>Wireshark</li>
+<li>Windows Security</li>
+<li>Sysmon</li>
+<li>Wazuh</li>
+<li>SOC Operations</li>
+<li>Cisco CCST Cybersecurity</li>
+</ul><h3 align="left">Projetos em desenvolvimento:</h3><ul>
+<li>Cybersecurity Portfolio</li>
+<li>Wireshark Traffic Analysis</li>
+<li>Windows Event Analysis</li>
+<li>SOC Learning Labs</li>
+<li>Wazuh Monitoring Labs</li>
+</ul><h3 align="left">Connect with me:</h3><p align="left">
+<a href="https://www.linkedin.com/in/pedromartinsamorim?utm_source=share_via&utm_content=profile&utm_medium=member_android
+" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
 <h3 align="left"> Tools:</h3>
 <p align="left"> <a <h3
 href="https://www.linux.org/" target="_blank">
