@@ -24,7 +24,7 @@ Documentando minha jornada em Cibersegurança através de laboratórios prático
 </a>
 </p>
   <a href="mailto:pedro.martinsamorim99@gmail.com">
-<img src="https://img.shields.io/badge/Contato-E--mail-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/pedroamorim7.pga%40yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </p>
